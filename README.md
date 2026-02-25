@@ -38,7 +38,10 @@ encurtador-url-go/
  ```
 
 ## Demonstrações da Aplicação
-[Assistir vídeo](LINK_DA_RELEASE)
+https://github.com/user-attachments/assets/3d90ffb6-32c5-4230-9b92-8026dd7e8acb
+
+https://github.com/user-attachments/assets/1832e8a9-6313-4ce0-81d4-aa9243c2c7f2
+
 
 ## Exemplos de Uso
 ❌ URL inválida (sem protocolo)
